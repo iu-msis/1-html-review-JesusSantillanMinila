@@ -1,0 +1,15 @@
+
+header {
+    background-color: #aaa;
+    margin-bottom: 10px;
+}
+
+
+footer {
+    background-color: #aaa;
+    padding: 10px;
+}
+
+.navbar-default{
+    background-color: skyblue;
+}
