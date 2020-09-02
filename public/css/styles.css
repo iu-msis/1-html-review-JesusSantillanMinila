@@ -16,6 +16,7 @@ footer {
 .navbar-default{
     background-color: #DEDEDE
     color: black;
+    font-size:15px;
 }
 #profilepic{
   border-radius: 50%;
